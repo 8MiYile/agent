@@ -15,7 +15,7 @@ import (
 
 var (
 	cfList = []string{
-		"https://pt.cloudflare.com/cdn-cgi/trace"，
+		"https://pt.cloudflare.com/cdn-cgi/trace",
 		"https://sv.cloudflare.com/cdn-cgi/trace",
 		"https://ru.cloudflare.com/cdn-cgi/trace",
 		"https://hu.cloudflare.com/cdn-cgi/trace",
